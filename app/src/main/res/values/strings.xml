@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">BukuRamadan</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="nama">Nama</string>
+    <string name="belum_punya_akun">Belum punya akun? Daftar</string>
+    <string name="sudah_punya_akun">Sudah punya akun? Masuk</string>
+    <string name="loading">Memuat...</string>
+    <string name="error_koneksi">Tidak bisa terhubung ke server</string>
+    <string name="beranda">Beranda</string>
+    <string name="logout">Keluar</string>
 </resources>
